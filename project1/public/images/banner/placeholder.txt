@@ -1,0 +1,5 @@
+HƯỚNG DẪN ĐẶT ẢNH BANNER:
+
+1. Đổi tên ảnh từ hình ảnh cyberpunk với người mặc áo hoodie màu tím (từ ảnh đã cung cấp) thành "cyber_banner.jpg"
+2. Lưu ảnh vào thư mục này (public/images/banner/)
+3. Kích thước đề xuất: khoảng 1920x1080 pixels 
